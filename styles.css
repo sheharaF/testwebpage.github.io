@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+}
+.one h1{
+    padding: 10px;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+.one h2{
+    padding: 0%;
+    border: 0px;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium';
+}
+.basic{
+    background-color: beige;
+}
+.basic table{
+    font-size: 25px;
+    width: 700px;
+}
+ul{
+    font-size: 25px;
+}
+.edu table{
+    font-size: 25px;
+}
+.edu p{
+    font-size: 30px;
+    text-align: center;
+}
